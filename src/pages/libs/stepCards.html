@@ -1,0 +1,9 @@
+<div class="steps container">
+    @@for(let i = 0; i < steps.length; i++) { 
+    <div class="steps__item">
+        <div class="steps__`+steps[i].modify+`">`+steps[i].icon+`</div>
+        <h2 class="steps__title">`+steps[i].title+`</h2>
+        <p class="steps__text">`+steps[i].text+`</p>
+    </div>
+    }
+</div>
