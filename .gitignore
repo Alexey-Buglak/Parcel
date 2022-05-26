@@ -1,8 +1,0 @@
-/node_modules
-package-lock.json
-*.iml
-*.xml
-.idea
-.vs_code
-.DS_Store
-/src
