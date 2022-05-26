@@ -5,4 +5,4 @@ package-lock.json
 .idea
 .vs_code
 .DS_Store
-/src/components
+/src
